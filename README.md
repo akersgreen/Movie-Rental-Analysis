@@ -1,2 +1,2 @@
 # Movie-Rental-Analysis
-SQL program to analyze the sales of a movie rental company
+Data analysis of a movie rental company using SQL (Sakila DB)
